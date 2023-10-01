@@ -1,0 +1,174 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"build" : "models/piTag",
+					"jsonFile" : "directory-models.piTag-Debug-2324dd790b66a2603d82.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "models/stag",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "testBench_",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Stag",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Stag::@178e7af78c0efa505c53",
+					"jsonFile" : "target-Stag-Debug-0740565c49ee13d4fb51.json",
+					"name" : "Stag",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "camera_calibration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-camera_calibration-Debug-7783f0fd630929001182.json",
+					"name" : "camera_calibration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "imagelist_creator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-imagelist_creator-Debug-2ec89f77cf42373e633e.json",
+					"name" : "imagelist_creator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-54c5bc7d49d584a5bce3.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mqtt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mqtt-Debug-2ad47309e3988d4c75f4.json",
+					"name" : "mqtt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testBench_aprilTag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testBench_aprilTag-Debug-60e4f29f11ff6dabe0a2.json",
+					"name" : "testBench_aprilTag",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testBench_arUcoTag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testBench_arUcoTag-Debug-36caee53f6a0ba5960b3.json",
+					"name" : "testBench_arUcoTag",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testBench_cctag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testBench_cctag-Debug-e55ef04d243f44c4499f.json",
+					"name" : "testBench_cctag",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testBench_piTag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testBench_piTag-Debug-05e5a8d63b483d61af98.json",
+					"name" : "testBench_piTag",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testBench_stag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testBench_stag-Debug-6d03b22015a6e99d9948.json",
+					"name" : "testBench_stag",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build",
+		"source" : "/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

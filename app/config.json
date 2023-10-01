@@ -1,0 +1,52 @@
+{
+    "max_distance": 1000,
+    "distance_step": 100,
+    "max_angle": 90,
+    "angle_step": 5,
+    "camera_height" : 1080,
+    "camera_width" : 1920,
+    "camera_fps" : 30,
+    "frames_to_capture" : 10,
+    "enable_no_marker_skip" : false,
+    "skipping_counter" : 3,
+    "save_picture_with_markers" : true,
+    "aruco" : {
+        "enable" : false,
+        "dictionary": "DICT_5X5_50",
+        "debug": false,
+        "id_array" : [
+            0, 1, 2
+        ]
+    },
+    "cctag" : {
+        "enable" : false,
+        "debug": false,
+        "Rings_number": 3,
+        "id_array": [
+            0, 1, 2
+        ]
+    },
+    "apriltag" : {
+        "enable" : false,
+        "debug": false,
+        "id_array": [
+            0, 1, 2
+        ]
+    },
+    "stag" :{
+        "enable" : false,
+        "debug": false,
+        "library_id": 17,
+        "error_correction": 7,
+        "id_array": [
+            0, 1, 2
+        ]
+    },
+    "pitag" :{
+        "enable" : true,
+        "debug": false,
+        "id_array": [
+            0, 1, 2
+        ]
+    }
+}

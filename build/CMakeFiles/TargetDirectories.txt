@@ -1,0 +1,14 @@
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/mqtt.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/main.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/camera_calibration.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/imagelist_creator.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/testBench_stag.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/testBench_piTag.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/testBench_aprilTag.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/testBench_cctag.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/testBench_arUcoTag.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/edit_cache.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/CMakeFiles/rebuild_cache.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/models/piTag/CMakeFiles/Stag.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/models/piTag/CMakeFiles/edit_cache.dir
+/home/mikkel/ear_tracker/fiducial_marker_test_setup/firmware/main/build/models/piTag/CMakeFiles/rebuild_cache.dir
